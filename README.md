@@ -1,6 +1,6 @@
 # NudeX — AI-Powered Anti-NSFW Discord Bot
 
-![NudeX Logo](https://i.imgur.com/ab7ZdQx.png)
+![NudeX Logo](https://i.imgur.com/OxdRgRf.png)
 
 ---
 
