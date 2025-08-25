@@ -1,14 +1,14 @@
-# NudeX — AI-Powered Anti-NSFW Discord Bot
+# NoNSFW — AI-Powered Anti-NSFW Discord Bot
 
-![NudeX Logo](https://i.imgur.com/OxdRgRf.png)
+![NoNSFW Logo](https://i.imgur.com/4ScbaE1.png)
 
 ---
 
 ## Overview
 
-NudeX is a smart AI-driven Discord bot designed to protect your server by automatically detecting and removing NSFW images, attachments, and avatars. Using advanced AI combined with efficient caching via image hashing, NudeX keeps your community safe, clean, and family-friendly — all while respecting user privacy.
+NoNSFW is a smart AI-driven Discord bot designed to protect your server by automatically detecting and removing NSFW images, attachments, and avatars. Using advanced AI combined with efficient caching via image hashing, NoNSFW keeps your community safe, clean, and family-friendly — all while respecting user privacy.
 
-Currently in **Beta**, NudeX is continuously improving through user feedback to provide the most accurate, efficient, and privacy-conscious NSFW moderation tool on Discord.
+Currently in **Beta**, NoNSFW is continuously improving through user feedback to provide the most accurate, efficient, and privacy-conscious NSFW moderation tool on Discord.
 
 ---
 
@@ -26,9 +26,9 @@ Currently in **Beta**, NudeX is continuously improving through user feedback to 
 
 ## Getting Started
 
-### Invite NudeX to Your Server
+### Invite NoNSFW to Your Server
 
-[Invite NudeX](https://discord.com/oauth2/authorize?client_id=1403374272553943090&permissions=8&scope=bot+applications.commands)
+[Invite NoNSFW](https://discord.com/oauth2/authorize?client_id=1403374272553943090&permissions=8&scope=bot+applications.commands)
 
 ### Setup
 
@@ -64,7 +64,7 @@ Join our support server for help, updates, and to share feedback:
 
 ## Disclaimer
 
-NudeX is provided “as is” and is currently in Beta. While we strive for accuracy, some false positives or missed detections may occur. Use responsibly.
+NoNSFW is provided “as is” and is currently in Beta. While we strive for accuracy, some false positives or missed detections may occur. Use responsibly.
 
 ---
 
@@ -74,4 +74,4 @@ Programmed by Midnight
 
 ---
 
-*Thank you for choosing NudeX — protecting Discord communities one image at a time!*
+*Thank you for choosing NoNSFW — protecting Discord communities one image at a time!*
